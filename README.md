@@ -1,6 +1,6 @@
 Task1 SOLUTION
 
-#Print Working Directory
+# Print Working Directory
 
 `pwd` command used to print working directory
 ![pwd](Task1-Screenshots/pwd.PNG)
@@ -13,7 +13,7 @@ Task1 SOLUTION
 `rmdir` command used to delete empty directory
 ![rmdir](Task1-Screenshots/rmdir.PNG)
 
-#Preview Data In File
+# Preview Data In File
 
 `cat /etc/passwd`
 `head -n 2 /etc/passwd`
@@ -21,7 +21,7 @@ Task1 SOLUTION
 ![Preview-Data](Task1-Screenshots/Preview-Data.PNG)
 
 
-#File Mangement
+# File Mangement
 `touch` command used to create a file
 ![touch](Task1-Screenshots/touch.PNG)
 
