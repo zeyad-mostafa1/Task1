@@ -6,7 +6,7 @@ Task1 SOLUTION
 ![pwd](Task1-Screenshots/pwd.PNG)
 
 
-#Create and Delete Directory
+# Create and Delete Directory
 `mkdir` command used to create directories
 ![mkdir](Task1-Screenshots/mkdir.PNG)
 
